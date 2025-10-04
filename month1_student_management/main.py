@@ -1,5 +1,5 @@
 # Entry point for the student management system
-from student_data import students, add_student, view_students, get_average_grade
+from student_data import students, add_student, view_students, get_average_grade, load_students, save_students
 
 print("📚 Welcome to the Student Record System")
 

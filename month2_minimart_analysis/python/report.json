@@ -1,0 +1,7 @@
+{
+    "total_products_sold": 4,
+    "most_popular_product": "Milk",
+    "revenue_per_customer": {
+        "Seyi": 60.0
+    }
+}
